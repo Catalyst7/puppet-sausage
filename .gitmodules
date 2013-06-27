@@ -1,0 +1,3 @@
+[submodule "files/sausage-bun"]
+	path = files/sausage-bun
+	url = git@github.com:MetricWise/sausage-bun.git
